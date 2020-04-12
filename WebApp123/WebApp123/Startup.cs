@@ -11,8 +11,8 @@ using Microsoft.Extensions.Hosting;
 
 namespace WebApp123
 {
-    //added some more
-    // added more changes
+    
+    // Remove some codes 
     public class Startup
     {
         public Startup(IConfiguration configuration)
