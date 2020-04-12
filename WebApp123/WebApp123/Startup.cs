@@ -13,6 +13,7 @@ namespace WebApp123
 {
     
     // Remove some codes 
+    // doing a rerun
     public class Startup
     {
         public Startup(IConfiguration configuration)
